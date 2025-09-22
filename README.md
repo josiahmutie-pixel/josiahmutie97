@@ -1,2 +1,2 @@
 # josiahmutie97
-Experienced Data Analyst with a demonstrated history of working in the IT industry. Skilled in Python, R, SQL, Machine Learning Techniques, Deep learning, and Statistical analysis. Strong education professional pursuing a Bachelor's degree in Data Science from Meru University of Science and Technology, Kenya.
+Hi, I'm Josiah Mutie Suku! I'm a data science enthusiast with a background in Mathematical Sciences from AIMS and a BSc in Data Science from Meru University. I'm skilled in data analysis, machine learning, and visualization tools like Power BI, Excel, and Python. I'm passionate about leveraging data-driven insights to solve real-world problems and continuously learning new skills to stay ahead in the field.
