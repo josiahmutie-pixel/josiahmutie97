@@ -62,7 +62,7 @@ I specialize in data analysis, machine learning, and data visualization, using t
 
 ## ✨ Fun Touch
 
-![Coding](https://via.placeholder.com/400x200/0D1117/00D26A?text=Turning+data+into+stories+and+solutions.)
+![Coding Gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 > "Turning data into stories and solutions."
 
